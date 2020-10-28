@@ -1,0 +1,2 @@
+# calculator
+ Enkel miniräknare
