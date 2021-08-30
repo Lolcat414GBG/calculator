@@ -1,6 +1,7 @@
 # calculator
  Simple calculator in JavaScript. Only four operators: +-/* <br>
  Alse practice coding after a given design.
+ https://gist.github.com/zocom-christoffer-wallenberg/bfdf47800d301c6a81fe5a8ae823a4dd
  
  ![Skärmavbild 2021-08-30 kl  14 46 25](https://user-images.githubusercontent.com/70148089/131341283-cb620dba-97a9-43b6-8f9e-89fc0773b80f.png)
 
